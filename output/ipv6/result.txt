@@ -23,6 +23,7 @@ CCTV-3,http://[2409:8087:1a15:10d1::02]/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221225799/1.m3u8
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/1/index.m3u8?fmt=ts2hls
@@ -30,7 +31,6 @@ CCTV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8
 CCTV-4,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221226092/1.m3u8
 CCTV-4,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221226092/1.m3u8
 CCTV-4,http://[2409:8087:1a15:10d1::08]/PLTV/88888888/224/3221226092/1.m3u8
-CCTV-4,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221226092/1.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
@@ -89,13 +89,13 @@ CCTV-11,http://[2409:8087:1a15:10d1::16]/PLTV/88888888/224/3221226123/1.m3u8
 CCTV-11,http://[2409:8087:1a15:10d1::18]/PLTV/88888888/224/3221226123/1.m3u8
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8
 CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV-12,https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8
 CCTV-12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/1/index.m3u8?fmt=ts2hls
 CCTV-12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::02]/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221225669/1.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237159&major_anchor_level=common&sign=f4a61f9c77210365df05b23dfc826a52&t_id=037-202603161139195D604AC09886F513985D-gkmqiV
+CCTV-12,http://[2409:8087:1a15:10d1::08]/PLTV/88888888/224/3221225669/1.m3u8
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -105,12 +105,12 @@ CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/1/index.m3u8?fmt=ts2hls
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://hls-gateway.vpstv.net/streams/476900.m3u8
+CCTV-14,https://t.freetv.fun/live/cctv14shao-er-1.php
 CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 CCTV-14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV-14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/1/index.m3u8?fmt=ts2hls
 CCTV-14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225738/1.m3u8
 CCTV-14,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221225674/1.m3u8
-CCTV-14,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-15,https://hls-gateway.vpstv.net/streams/476901.m3u8
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
@@ -417,4 +417,4 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-12.m3u8
 
 🕘️更新时间,#genre#
-2026-03-18 06:45:32,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2026-03-19 18:46:31,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
