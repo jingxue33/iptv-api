@@ -63,6 +63,7 @@ CCTV-8,http://[2409:8087:1a15:10d1::02]/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://[2409:8087:1a15:10d1::08]/PLTV/88888888/224/3221225795/1.m3u8
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
 CCTV-9,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/1/index.m3u8?fmt=ts2hls
@@ -70,7 +71,6 @@ CCTV-9,http://[2409:8087:1a15:10d1::02]/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://[2409:8087:1a15:10d1::20]/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://[2409:8087:1a15:10d1::24]/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://[2409:8087:1a15:10d1::28]/PLTV/88888888/224/3221225676/1.m3u8
-CCTV-9,http://[2409:8087:1a15:10d1::30]/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/1/index.m3u8?fmt=ts2hls
@@ -95,8 +95,8 @@ CCTV-12,http://[2409:8087:1a15:10d1::02]/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://[2409:8087:1a15:10d1::08]/PLTV/88888888/224/3221225669/1.m3u8
-CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/1/index.m3u8?fmt=ts2hls
 CCTV-13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8
@@ -297,7 +297,6 @@ CCTV-17,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221225708/1.m3u8
 甘肃卫视,http://[2409:8087:1a15:10d1::04]/PLTV/88888888/224/3221226048/1.m3u8
 甘肃卫视,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221226048/1.m3u8
 甘肃卫视,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221226048/1.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/1/index.m3u8?fmt=ts2hls
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226084/1.m3u8
@@ -305,6 +304,7 @@ CCTV-17,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221225708/1.m3u8
 广西卫视,http://[2409:8087:1a15:10d1::06]/PLTV/88888888/224/3221226091/1.m3u8
 广西卫视,http://[2409:8087:1a15:10d1::08]/PLTV/88888888/224/3221226091/1.m3u8
 广西卫视,http://[2409:8087:1a15:10d1::10]/PLTV/88888888/224/3221226091/1.m3u8
+广西卫视,http://[2409:8087:1a15:10d1::12]/PLTV/88888888/224/3221226091/1.m3u8
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 贵州卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
@@ -414,4 +414,4 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
 
 🕘️更新时间,#genre#
-2026-10-06 10:13:17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2026-10-08 01:22:49,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8

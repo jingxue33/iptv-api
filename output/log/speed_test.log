@@ -1,91 +1,91 @@
 获取结果失败 http://69.30.245.50/live/cctv1.m3u8: 未找到视频片段URL，跳过
 频道名: CCTV-1, URL: http://69.30.245.50/live/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://101.35.240.114:88/live.php?id=CCTV1: 响应码异常: 404
-下载测速失败 http://101.35.240.114:88/live.php?id=CCTV1: 无效响应码，跳过该接口
-获取结果失败 http://101.35.240.114:88/live.php?id=CCTV1: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://101.35.240.114:88/live.php?id=CCTV1, 来源: subscribe, IP类型: ipv4, 地区: 中国-上海-上海, 运营商: 腾讯云, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261004220258ad82535e902f4399b1de3333f95282de&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261004220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261004220258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=984291ed61432498fedeefe94b9fb5c5: 响应码异常: 403
-下载测速失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261004220258ad82535e902f4399b1de3333f95282de&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261004220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261004220258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=984291ed61432498fedeefe94b9fb5c5: 无效响应码，跳过该接口
-获取结果失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261004220258ad82535e902f4399b1de3333f95282de&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261004220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261004220258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=984291ed61432498fedeefe94b9fb5c5: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261004220258ad82535e902f4399b1de3333f95282de&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261004220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261004220258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=984291ed61432498fedeefe94b9fb5c5, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: 亚太互联网络信息中心(CloudFlare节点), 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-1, URL: http://198.204.228.26/live/cctv1hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 653 ms, 速度: 5.00 M/s, 分辨率: 1280x720
+频道名: CCTV-1, URL: http://204.12.221.218:8181/3m1080p/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 272 ms, 速度: 4.14 M/s, 分辨率: 1280x720
+频道名: CCTV-1, URL: http://74.91.26.218:82/live/cctv1hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 221 ms, 速度: 4.27 M/s, 分辨率: 1280x720
+频道名: CCTV-1, URL: http://198.204.228.26/live/cctv1hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 325 ms, 速度: 3.69 M/s, 分辨率: 1280x720
+获取URL内容失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261006220257b65cd8ed0e8548eea3b1b12afdc5a3e3&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261006220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261006220257&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51b5006b8c3dce636a5bbd0ccfc03d56: 响应码异常: 403
+下载测速失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261006220257b65cd8ed0e8548eea3b1b12afdc5a3e3&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261006220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261006220257&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51b5006b8c3dce636a5bbd0ccfc03d56: 无效响应码，跳过该接口
+获取结果失败 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261006220257b65cd8ed0e8548eea3b1b12afdc5a3e3&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261006220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261006220257&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51b5006b8c3dce636a5bbd0ccfc03d56: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20261006220257b65cd8ed0e8548eea3b1b12afdc5a3e3&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261006220257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.79.254&SecurityKey=20261006220257&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51b5006b8c3dce636a5bbd0ccfc03d56, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: 亚太互联网络信息中心(CloudFlare节点), 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-1, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009, 来源: subscribe, IP类型: ipv4, 地区: 美国-哥伦比亚特区-哥伦比亚特区, 运营商: Cogent, 日期: None, 延迟: 375 ms, 速度: 2.91 M/s, 分辨率: 1280x720
 获取响应头失败 http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 1.197.250.140:9901 ssl:default [Connect call failed ('1.197.250.140', 9901)]
-频道名: CCTV-1, URL: http://74.91.26.218:82/live/cctv1hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 698 ms, 速度: 6.08 M/s, 分辨率: 1920x1080
 获取URL内容失败 http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 1.197.250.140:9901 ssl:default [Connect call failed ('1.197.250.140', 9901)]
 下载测速失败 http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 1.197.250.140:9901 ssl:default [Connect call failed ('1.197.250.140', 9901)]
 获取结果失败 http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://1.197.250.140:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-漯河, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取URL内容失败 http://101.35.240.114:88/live.php?id=CCTV1: 响应码异常: 404
+下载测速失败 http://101.35.240.114:88/live.php?id=CCTV1: 无效响应码，跳过该接口
+获取结果失败 http://101.35.240.114:88/live.php?id=CCTV1: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://101.35.240.114:88/live.php?id=CCTV1, 来源: subscribe, IP类型: ipv4, 地区: 中国-上海-上海, 运营商: 腾讯云, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://110.80.17.38:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 110.80.17.38:9901 ssl:default [Connect call failed ('110.80.17.38', 9901)]
 获取URL内容失败 http://110.80.17.38:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 110.80.17.38:9901 ssl:default [Connect call failed ('110.80.17.38', 9901)]
 下载测速失败 http://110.80.17.38:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 110.80.17.38:9901 ssl:default [Connect call failed ('110.80.17.38', 9901)]
 获取结果失败 http://110.80.17.38:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://110.80.17.38:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-福建-厦门, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-1, URL: http://go.bkpcp.top/mg/cctv1, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: CloudFlare节点, 日期: None, 延迟: 383 ms, 速度: 4.79 M/s, 分辨率: 1920x1080
-获取响应头失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
-获取响应头失败 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8: 
-获取响应头失败 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8: 
-频道名: CCTV-1, URL: http://204.12.221.218:8181/3m1080p/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 7269 ms, 速度: 0.08 M/s, 分辨率: 1280x720
+频道名: CCTV-1, URL: http://go.bkpcp.top/mg/cctv1, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: CloudFlare节点, 日期: None, 延迟: 332 ms, 速度: 7.96 M/s, 分辨率: 1920x1080
+获取URL内容失败 http://118.113.40.13:1234/608807420: 400, message="Expected HTTP/:\n\n  b'<html>'\n    ^", url='http://gslbmgsplive.miguvideo.com/migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=02ab55e05ba6811748c3955af32b9794&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261007232312&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=118.113.40.13&SecurityKey=20261007232312&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4cc43c9c70ad4a6ca55896b7d6040833&ddCalcu=343cv8ca04y43a0c69dc77b06a9d845a56ac&sv=10004&ct=android'
+下载测速失败 http://118.113.40.13:1234/608807420: 400, message="Expected HTTP/:\n\n  b'<html>'\n    ^", url='http://gslbmgsplive.miguvideo.com/migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=02ab55e05ba6811748c3955af32b9794&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261007232312&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=118.113.40.13&SecurityKey=20261007232312&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4cc43c9c70ad4a6ca55896b7d6040833&ddCalcu=343cv8ca04y43a0c69dc77b06a9d845a56ac&sv=10004&ct=android'
+获取结果失败 http://118.113.40.13:1234/608807420: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://118.113.40.13:1234/608807420, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川-成都, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8: Cannot connect to host 61.156.228.12:8154 ssl:default [Connect call failed ('61.156.228.12', 8154)]
-频道名: CCTV-1, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009, 来源: subscribe, IP类型: ipv4, 地区: 美国-哥伦比亚特区-哥伦比亚特区, 运营商: Cogent, 日期: None, 延迟: 7270 ms, 速度: 0.08 M/s, 分辨率: 1280x720
-下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-1968.ts: 
-下载测速失败 http://219.147.245.238:25480/newlive/live/hls/1/program-1965.ts: 
-下载测速失败 http://219.147.245.238:25480/newlive/live/hls/1/program-1968.ts: 
-下载测速失败 http://219.147.245.238:25480/newlive/live/hls/1/program-1967.ts: 
-下载测速失败 http://219.147.245.238:25480/newlive/live/hls/1/program-1966.ts: 
-下载测速失败 http://219.147.245.238:25480/newlive/live/hls/1/program-1964.ts: 
-获取响应头失败 http://58.19.43.46:9901/tsfile/live/1020_1.m3u8: 
-下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-1970.ts: 
-下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-1967.ts: 
 获取URL内容失败 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8: Cannot connect to host 61.156.228.12:8154 ssl:default [Connect call failed ('61.156.228.12', 8154)]
-获取响应头失败 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 218.89.240.144:59901 ssl:default [Connect call failed ('218.89.240.144', 59901)]
 下载测速失败 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8: Cannot connect to host 61.156.228.12:8154 ssl:default [Connect call failed ('61.156.228.12', 8154)]
 获取结果失败 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://61.156.228.12:8154/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-德州, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 218.89.240.144:59901 ssl:default [Connect call failed ('218.89.240.144', 59901)]
 获取URL内容失败 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 218.89.240.144:59901 ssl:default [Connect call failed ('218.89.240.144', 59901)]
 下载测速失败 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 218.89.240.144:59901 ssl:default [Connect call failed ('218.89.240.144', 59901)]
 获取结果失败 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://218.89.240.144:59901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川-成都, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-1, URL: http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-青岛, 运营商: 电信, 日期: None, 延迟: 8808 ms, 速度: 0.72 M/s, 分辨率: 1920x1080
-频道名: CCTV-1, URL: http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-黑龙江-绥化, 运营商: 电信, 日期: None, 延迟: 8068 ms, 速度: 0.20 M/s, 分辨率: 1920x1080
-获取URL内容失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
-获取响应头失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
+获取响应头失败 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8: 
+获取响应头失败 http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取响应头失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
+获取响应头失败 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8: 
+获取响应头失败 http://58.19.43.46:9901/tsfile/live/1020_1.m3u8: 
+下载测速失败 http://120.40.39.246:352/newlive/live/hls/1/program-16023.ts: 
+下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-16071.ts: 
+下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-16069.ts: 
+下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-16068.ts: 
+下载测速失败 http://58.56.162.102:4466/newlive/live/hls/1/program-16067.ts: 
+下载测速失败 http://120.40.39.246:352/newlive/live/hls/1/program-16021.ts: 
+下载测速失败 http://120.40.39.246:352/newlive/live/hls/1/program-16024.ts: 
+下载测速失败 http://120.40.39.246:352/newlive/live/hls/1/program-16025.ts: 
+下载测速失败 http://120.40.39.246:352/newlive/live/hls/1/program-16022.ts: 
+频道名: CCTV-1, URL: http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-青岛, 运营商: 电信, 日期: None, 延迟: 8132 ms, 速度: 0.38 M/s, 分辨率: 1920x1080
+下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15172635.ts?key=txiptv&key2=15172635: 
+下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15172639.ts?key=txiptv&key2=15172639: 
+下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15172637.ts?key=txiptv&key2=15172637: 
+下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15172638.ts?key=txiptv&key2=15172638: 
+下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15172636.ts?key=txiptv&key2=15172636: 
+频道名: CCTV-1, URL: http://120.40.39.246:352/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-福建-福州, 运营商: 电信, 日期: None, 延迟: 8052 ms, 速度: 0.20 M/s, 分辨率: 1920x1080
 获取URL内容失败 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8: 
+获取URL内容失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
+获取URL内容失败 http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: 
 获取URL内容失败 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8: 
+获取结果失败 http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
+获取响应头失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
 获取URL内容失败 http://58.19.43.46:9901/tsfile/live/1020_1.m3u8: 
-下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15144442.ts?key=txiptv&key2=15144442: 
-下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15144441.ts?key=txiptv&key2=15144441: 
-下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15144440.ts?key=txiptv&key2=15144440: 
-下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15144438.ts?key=txiptv&key2=15144438: 
-下载测速失败 http://123.130.84.106:8154/tsfile/live/live_1_1_15144439.ts?key=txiptv&key2=15144439: 
+频道名: CCTV-1, URL: http://123.130.84.106:8154/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-烟台, 运营商: 联通, 日期: None, 延迟: 8261 ms, 速度: 0.04 M/s, 分辨率: 1920x1080
 获取响应头失败 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8: 
-下载测速失败 http://222.169.85.8:9901/tsfile/live/live_1_1_13209915.ts?key=txiptv&key2=13209915: 
-下载测速失败 http://222.169.85.8:9901/tsfile/live/live_1_1_13209914.ts?key=txiptv&key2=13209914: 
-下载测速失败 http://222.169.85.8:9901/tsfile/live/live_1_1_13209913.ts?key=txiptv&key2=13209913: 
-下载测速失败 http://222.169.85.8:9901/tsfile/live/live_1_1_13209917.ts?key=txiptv&key2=13209917: 
-下载测速失败 http://222.169.85.8:9901/tsfile/live/live_1_1_13209916.ts?key=txiptv&key2=13209916: 
-下载测速失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
-获取URL内容失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
-获取结果失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://116.9.204.242:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-贺州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-1, URL: http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-吉林-辽源, 运营商: 电信, 日期: None, 延迟: 1129 ms, 速度: 0.00 M/s, 分辨率: 720x576
+获取响应头失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 
 下载测速失败 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8: 
+下载测速失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 
 获取结果失败 http://202.168.187.208:9089/tsfile/live/1003_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://202.168.187.208:9089/tsfile/live/1003_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东, 运营商: 广电网络, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取结果失败 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://116.9.204.242:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-贺州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8: 
 获取结果失败 http://218.3.138.25:1111/tsfile/live/1000_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://218.3.138.25:1111/tsfile/live/1000_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-镇江, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
 下载测速失败 http://58.19.43.46:9901/tsfile/live/1020_1.m3u8: 
+获取URL内容失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
 获取结果失败 http://58.19.43.46:9901/tsfile/live/1020_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://58.19.43.46:9901/tsfile/live/1020_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-分辨率检测失败 http://123.130.84.106:8154/tsfile/live/0001_1.m3u8: 
-频道名: CCTV-1, URL: http://123.130.84.106:8154/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-烟台, 运营商: 联通, 日期: None, 延迟: 8947 ms, 速度: 0.03 M/s, 分辨率: 未知
-获取URL内容失败 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8: 
-获取响应头失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 
-分辨率检测失败 http://222.169.85.8:9901/tsfile/live/0001_1.m3u8: 
-频道名: CCTV-1, URL: http://222.169.85.8:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-吉林-辽源, 运营商: 电信, 日期: None, 延迟: 9003 ms, 速度: 0.10 M/s, 分辨率: 未知
-获取响应头失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('124.72.91.149', 8888)]
-获取URL内容失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('124.72.91.149', 8888)]
-获取响应头失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
-下载测速失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('124.72.91.149', 8888)]
+获取响应头失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('117.28.108.252', 8888)]
+获取URL内容失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('117.28.108.252', 8888)]
+下载测速失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: Cannot connect to host e1.woc.iiiya.cn:8888 ssl:default [Connect call failed ('117.28.108.252', 8888)]
 获取结果失败 http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878, 来源: subscribe, IP类型: ipv4, 地区: 中国-福建-厦门, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://118.122.189.74:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 118.122.189.74:9901 ssl:default [Connect call failed ('118.122.189.74', 9901)]
@@ -94,8 +94,8 @@
 获取结果失败 http://118.122.189.74:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://118.122.189.74:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://183.94.1.118:8801/tsfile/live/0001_1.m3u8: Cannot connect to host 183.94.1.118:8801 ssl:default [Connect call failed ('183.94.1.118', 8801)]
-获取响应头失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 
 获取URL内容失败 http://183.94.1.118:8801/tsfile/live/0001_1.m3u8: Cannot connect to host 183.94.1.118:8801 ssl:default [Connect call failed ('183.94.1.118', 8801)]
+获取URL内容失败 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8: 
 下载测速失败 http://183.94.1.118:8801/tsfile/live/0001_1.m3u8: Cannot connect to host 183.94.1.118:8801 ssl:default [Connect call failed ('183.94.1.118', 8801)]
 获取结果失败 http://183.94.1.118:8801/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://183.94.1.118:8801/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
@@ -104,20 +104,34 @@
 下载测速失败 http://111.9.163.109:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 111.9.163.109:9901 ssl:default [Connect call failed ('111.9.163.109', 9901)]
 获取结果失败 http://111.9.163.109:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://111.9.163.109:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
-获取结果失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://61.138.128.226:19901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-吉林-吉林市, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 
 获取响应头失败 http://123.138.22.30:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 123.138.22.30:9901 ssl:default [Connect call failed ('123.138.22.30', 9901)]
 获取URL内容失败 http://123.138.22.30:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 123.138.22.30:9901 ssl:default [Connect call failed ('123.138.22.30', 9901)]
 下载测速失败 http://123.138.22.30:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 123.138.22.30:9901 ssl:default [Connect call failed ('123.138.22.30', 9901)]
 获取结果失败 http://123.138.22.30:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://123.138.22.30:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西-西安, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取URL内容失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 
+下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30805727.ts?key=txiptv&key2=30805727: 
+下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3925416495_1431073877/2/00/CHANNEL00000311/5840800/_358278720.ts?servicetype=1: 
+下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30805726.ts?key=txiptv&key2=30805726: 
+下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30805725.ts?key=txiptv&key2=30805725: 
+下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30805724.ts?key=txiptv&key2=30805724: 
+下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3925416495_1431073877/2/00/CHANNEL00000311/5840800/_358278717.ts?servicetype=1: 
+下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3925416495_1431073877/2/00/CHANNEL00000311/5840800/_358278716.ts?servicetype=1: 
+下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3925416495_1431073877/2/00/CHANNEL00000311/5840800/_358278719.ts?servicetype=1: 
+下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30805728.ts?key=txiptv&key2=30805728: 
+下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3925416495_1431073877/2/00/CHANNEL00000311/5840800/_358278718.ts?servicetype=1: 
+下载测速失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 
+获取URL内容失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
+获取结果失败 http://61.138.128.226:19901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://61.138.128.226:19901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-吉林-吉林市, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://111.160.17.2:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 111.160.17.2:59901 ssl:default [Connect call failed ('111.160.17.2', 59901)]
 获取URL内容失败 http://111.160.17.2:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 111.160.17.2:59901 ssl:default [Connect call failed ('111.160.17.2', 59901)]
 下载测速失败 http://111.160.17.2:59901/tsfile/live/0001_1.m3u8: Cannot connect to host 111.160.17.2:59901 ssl:default [Connect call failed ('111.160.17.2', 59901)]
 获取结果失败 http://111.160.17.2:59901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://111.160.17.2:59901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-天津-天津, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 223.241.247.214:9901 ssl:default [Connect call failed ('223.241.247.214', 9901)]
+获取响应头失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
 获取URL内容失败 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 223.241.247.214:9901 ssl:default [Connect call failed ('223.241.247.214', 9901)]
 下载测速失败 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8: Cannot connect to host 223.241.247.214:9901 ssl:default [Connect call failed ('223.241.247.214', 9901)]
 获取结果失败 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
@@ -127,159 +141,153 @@
 下载测速失败 http://120.238.94.10:9901/tsfile/live/1018_1.m3u8: Cannot connect to host 120.238.94.10:9901 ssl:default [Connect call failed ('120.238.94.10', 9901)]
 获取结果失败 http://120.238.94.10:9901/tsfile/live/1018_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://120.238.94.10:9901/tsfile/live/1018_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-江门, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30777528.ts?key=txiptv&key2=30777528: 
-下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30777527.ts?key=txiptv&key2=30777527: 
-下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30777526.ts?key=txiptv&key2=30777526: 
-下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.161.184:80/wh7f454c46tw3421153440_-1293591384/2/00/CHANNEL00000311/5840800/_358250522.ts?servicetype=1: 
-下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.161.184:80/wh7f454c46tw3421153440_-1293591384/2/00/CHANNEL00000311/5840800/_358250521.ts?servicetype=1: 
-下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.161.184:80/wh7f454c46tw3421153440_-1293591384/2/00/CHANNEL00000311/5840800/_358250520.ts?servicetype=1: 
-下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.161.184:80/wh7f454c46tw3421153440_-1293591384/2/00/CHANNEL00000311/5840800/_358250518.ts?servicetype=1: 
-下载测速失败 http://10.10.0.1:8085/txkj_iptv/222.174.161.184:80/wh7f454c46tw3421153440_-1293591384/2/00/CHANNEL00000311/5840800/_358250519.ts?servicetype=1: 
-下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30777530.ts?key=txiptv&key2=30777530: 
-下载测速失败 http://61.136.172.236:9901/tsfile/live/live_1_1_30777529.ts?key=txiptv&key2=30777529: 
 下载测速失败 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8: 
 获取结果失败 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://116.128.242.83:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 
-获取响应头失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
-获取URL内容失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
-获取响应头失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
 获取URL内容失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 
 分辨率检测失败 http://58.57.40.22:9901/tsfile/live/0001_1.m3u8: 'streams'
-频道名: CCTV-1, URL: http://58.57.40.22:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-临沂, 运营商: 电信, 日期: None, 延迟: 8330 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-1, URL: http://58.57.40.22:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-临沂, 运营商: 电信, 日期: None, 延迟: 8269 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 https://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT: Cannot connect to host hnyst.130519.xyz:443 ssl:default [Name or service not known]
 获取URL内容失败 https://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT: Cannot connect to host hnyst.130519.xyz:443 ssl:default [Name or service not known]
 下载测速失败 https://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT: Cannot connect to host hnyst.130519.xyz:443 ssl:default [Name or service not known]
 获取结果失败 https://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: https://hnyst.130519.xyz/000000001666/100000000100111211/1.m3u8?IASHttpSessionId=OTT, 来源: subscribe, IP类型: ipv4, 地区: None, 运营商: None, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-1, URL: http://173.208.234.146/live/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 487 ms, 速度: 2.02 M/s, 分辨率: 1280x720
-获取响应头失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 
-分辨率检测失败 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8: 
-频道名: CCTV-1, URL: http://61.136.172.236:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-黄石, 运营商: 电信, 日期: None, 延迟: 8397 ms, 速度: 0.01 M/s, 分辨率: 未知
-获取结果失败 http://69.30.245.50/live/cctv1.m3u8?app=wh18-403: 未找到视频片段URL，跳过
-频道名: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
 下载测速失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 
 获取结果失败 http://113.57.111.4:1111/tsfile/live/1000_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://113.57.111.4:1111/tsfile/live/1000_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
-获取结果失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://58.221.214.82:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南通, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 
-下载测速失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 
-获取URL内容失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
-获取结果失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://58.220.219.14:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-扬州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-2, URL: http://107.150.60.122/live/cctv2hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: NOCIX数据中心, 日期: None, 延迟: 790 ms, 速度: 5.67 M/s, 分辨率: 1920x1080
+获取结果失败 http://69.30.245.50/live/cctv1.m3u8?app=wh18-403: 未找到视频片段URL，跳过
+频道名: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-1, URL: http://173.208.234.146/live/cctv1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 249 ms, 速度: 5.38 M/s, 分辨率: 1280x720
+分辨率检测失败 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8: 
+频道名: CCTV-1, URL: http://61.136.172.236:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-黄石, 运营商: 电信, 日期: None, 延迟: 8672 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取URL内容失败 http://112.27.235.94:8000/hls/1/index.m3u8: 响应码异常: 500
+获取响应头失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
 下载测速失败 http://112.27.235.94:8000/hls/1/index.m3u8: 无效响应码，跳过该接口
 获取结果失败 http://112.27.235.94:8000/hls/1/index.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://112.27.235.94:8000/hls/1/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-2, URL: http://192.151.150.154/live/cctv2hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: Datashack公司, 日期: None, 延迟: 715 ms, 速度: 6.62 M/s, 分辨率: 1920x1080
-频道名: CCTV-2, URL: http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-科罗拉多州, 运营商: NTT(美国)通信公司, 日期: None, 延迟: 1234 ms, 速度: 0.52 M/s, 分辨率: 1280x720
-获取URL内容失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 
-下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-2345.ts: 
-下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-2347.ts: 
-下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-2344.ts: 
-下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-2343.ts: 
-下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-2346.ts: 
-频道名: CCTV-2, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 723 ms, 速度: 6.38 M/s, 分辨率: 1920x1080
-下载测速失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
-获取结果失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://101.19.84.8:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-保定, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-2, URL: http://107.150.60.122/live/cctv2hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: NOCIX数据中心, 日期: None, 延迟: 236 ms, 速度: 4.80 M/s, 分辨率: 1280x720
+获取响应头失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 
+下载测速失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 
+获取结果失败 http://58.221.214.82:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://58.221.214.82:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南通, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-2, URL: http://192.151.150.154/live/cctv2hd.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: Datashack公司, 日期: None, 延迟: 322 ms, 速度: 13.70 M/s, 分辨率: 1920x1080
+获取URL内容失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
+频道名: CCTV-2, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 239 ms, 速度: 4.83 M/s, 分辨率: 1280x720
+获取URL内容失败 http://114.102.131.159:5080/631780532: 400, message="Expected HTTP/:\n\n  b'<html>'\n    ^", url='http://gslbmgsplive.miguvideo.com/migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=43573a752e830e8420157bead715ca5a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20261008012013&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=114.102.131.159&SecurityKey=20261008012013&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f4bd96017571e9b987f27a3756ced429&ddCalcu=9f24v4baddze9ac660517735a7712ef97b89&sv=10004&ct=android'
+下载测速失败 http://114.102.131.159:5080/631780532: 400, message="Expected HTTP/:\n\n  b'<html>'\n    ^", url='http://gslbmgsplive.miguvideo.com/migu/kailu/cctv2hd265/54/20200407/index.m3u8?msisdn=43573a752e830e8420157bead715ca5a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20261008012013&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=114.102.131.159&SecurityKey=20261008012013&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f4bd96017571e9b987f27a3756ced429&ddCalcu=9f24v4baddze9ac660517735a7712ef97b89&sv=10004&ct=android'
+获取结果失败 http://114.102.131.159:5080/631780532: 非M3U8格式，使用下载测速
+频道名: CCTV-2, URL: http://114.102.131.159:5080/631780532, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽-宿州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取URL内容失败 http://39.164.160.249:9901/tsfile/live/0002_1.m3u8: 响应码异常: 404
 下载测速失败 http://39.164.160.249:9901/tsfile/live/0002_1.m3u8: 无效响应码，跳过该接口
 获取结果失败 http://39.164.160.249:9901/tsfile/live/0002_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-2, URL: http://39.164.160.249:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-周口, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取响应头失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 
 获取URL内容失败 http://111.14.181.15:9901/tsfile/live/0002_1.m3u8: 响应码异常: 404
+下载测速失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 
+获取结果失败 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://58.220.219.14:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-扬州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://111.14.181.15:9901/tsfile/live/0002_1.m3u8: 无效响应码，跳过该接口
 获取结果失败 http://111.14.181.15:9901/tsfile/live/0002_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-2, URL: http://111.14.181.15:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
+获取响应头失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
+下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-9789.ts: 
+下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-9788.ts: 
+下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-9786.ts: 
+下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-9787.ts: 
+下载测速失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf-9785.ts: 
+获取URL内容失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
+获取URL内容失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 
+下载测速失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 
+获取响应头失败 http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8: 
+获取结果失败 http://101.19.84.8:9901/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://101.19.84.8:9901/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-保定, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取URL内容失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 
+下载测速失败 http://218.13.170.98:9901/tsfile/live/live_2_1_19890367.ts?key=txiptv&key2=19890367: 
+下载测速失败 http://218.13.170.98:9901/tsfile/live/live_2_1_19890365.ts?key=txiptv&key2=19890365: 
+下载测速失败 http://218.13.170.98:9901/tsfile/live/live_2_1_19890366.ts?key=txiptv&key2=19890366: 
+下载测速失败 http://218.13.170.98:9901/tsfile/live/live_2_1_19890363.ts?key=txiptv&key2=19890363: 
+下载测速失败 http://218.13.170.98:9901/tsfile/live/live_2_1_19890364.ts?key=txiptv&key2=19890364: 
+分辨率检测失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8: 
+频道名: CCTV-1, URL: https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南, 运营商: 移动, 日期: None, 延迟: 8326 ms, 速度: 0.01 M/s, 分辨率: 未知
+获取URL内容失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
+获取响应头失败 http://148.135.93.213/live.php?id=CCTV2: 
+下载测速失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 
 获取结果失败 http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://101.66.194.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-金华, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
-获取URL内容失败 http://182.46.8.235:7788/631780532: 
+获取URL内容失败 http://113.25.252.226:9901/tsfile/live/0003_1.m3u8: 响应码异常: 404
 下载测速失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 
 获取结果失败 http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls: 非M3U8格式，使用下载测速
 频道名: CCTV-1, URL: http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-湖州, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-分辨率检测失败 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8: 
-频道名: CCTV-1, URL: https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南, 运营商: 移动, 日期: None, 延迟: 8557 ms, 速度: 0.01 M/s, 分辨率: 未知
-获取响应头失败 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8: 
-获取响应头失败 http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8: 
-获取URL内容失败 http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 
-获取响应头失败 http://148.135.93.213/live.php?id=CCTV2: 
-获取响应头失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
-下载测速失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 
-获取结果失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-1, URL: http://175.8.28.207:9999/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 112.30.73.119:229 ssl:default [Connect call failed ('112.30.73.119', 229)]
+下载测速失败 http://113.25.252.226:9901/tsfile/live/0003_1.m3u8: 无效响应码，跳过该接口
+获取结果失败 http://113.25.252.226:9901/tsfile/live/0003_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-3, URL: http://113.25.252.226:9901/tsfile/live/0003_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山西, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取URL内容失败 http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 112.30.73.119:229 ssl:default [Connect call failed ('112.30.73.119', 229)]
 下载测速失败 http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 112.30.73.119:229 ssl:default [Connect call failed ('112.30.73.119', 229)]
 获取结果失败 http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0: 非M3U8格式，使用下载测速
 频道名: CCTV-3, URL: http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽-合肥, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
-下载测速失败 http://182.46.8.235:7788/631780532: 
-获取结果失败 http://182.46.8.235:7788/631780532: 非M3U8格式，使用下载测速
-频道名: CCTV-2, URL: http://182.46.8.235:7788/631780532, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-潍坊, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8: 
 获取URL内容失败 http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8: 
-下载测速失败 http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 
-获取结果失败 http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
-频道名: CCTV-2, URL: http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-山西, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-4, URL: http://207.56.13.146:81/cdnlive/cctv4.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-科罗拉多州, 运营商: NTT(美国)通信公司, 日期: None, 延迟: 4949 ms, 速度: 0.14 M/s, 分辨率: 1280x720
-获取URL内容失败 http://148.135.93.213/live.php?id=CCTV2: 
-获取URL内容失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
-下载测速失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
-获取结果失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-2, URL: http://121.33.239.242:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-广州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-4, URL: http://173.208.212.130:8181/1080p/cctv4.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 1284 ms, 速度: 3.05 M/s, 分辨率: 1920x1080
+频道名: CCTV-4, URL: http://207.56.13.146:81/cdnlive/cctv4.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-科罗拉多州, 运营商: NTT(美国)通信公司, 日期: None, 延迟: 203 ms, 速度: 3.48 M/s, 分辨率: 1280x720
+下载测速失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 
+获取响应头失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取结果失败 http://175.8.28.207:9999/tsfile/live/0001_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-1, URL: http://175.8.28.207:9999/tsfile/live/0001_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取URL内容失败 https://kele666.serv00.net/Smart.php?id=cctv4: 响应码异常: 404
 下载测速失败 https://kele666.serv00.net/Smart.php?id=cctv4: 无效响应码，跳过该接口
 获取结果失败 https://kele666.serv00.net/Smart.php?id=cctv4: 非M3U8格式，使用下载测速
 频道名: CCTV-4, URL: http://kele666.serv00.net/Smart.php?id=cctv4, 来源: subscribe, IP类型: ipv4, 地区: 波兰, 运营商: , 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+分辨率检测失败 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8: 
+频道名: CCTV-2, URL: http://218.13.170.98:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-佛山, 运营商: 电信, 日期: None, 延迟: 8768 ms, 速度: 0.06 M/s, 分辨率: 未知
 获取响应头失败 http://61.136.67.238:50085/tsfile/live/0005_1.m3u8: Cannot connect to host 61.136.67.238:50085 ssl:default [Connect call failed ('61.136.67.238', 50085)]
+获取响应头失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: Cannot connect to host 61.157.139.15:9901 ssl:default [Connect call failed ('61.157.139.15', 9901)]
 获取URL内容失败 http://61.136.67.238:50085/tsfile/live/0005_1.m3u8: Cannot connect to host 61.136.67.238:50085 ssl:default [Connect call failed ('61.136.67.238', 50085)]
-下载测速失败 http://107.150.35.234:88/applive/byt/segment_27329.ts: 
-下载测速失败 http://107.150.35.234:88/applive/byt/segment_27328.ts: 
+获取URL内容失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: Cannot connect to host 61.157.139.15:9901 ssl:default [Connect call failed ('61.157.139.15', 9901)]
 下载测速失败 http://61.136.67.238:50085/tsfile/live/0005_1.m3u8: Cannot connect to host 61.136.67.238:50085 ssl:default [Connect call failed ('61.136.67.238', 50085)]
 获取结果失败 http://61.136.67.238:50085/tsfile/live/0005_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-5, URL: http://61.136.67.238:50085/tsfile/live/0005_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-洛阳, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: Cannot connect to host 61.157.139.15:9901 ssl:default [Connect call failed ('61.157.139.15', 9901)]
-获取URL内容失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: Cannot connect to host 61.157.139.15:9901 ssl:default [Connect call failed ('61.157.139.15', 9901)]
-频道名: CCTV-4, URL: http://173.208.212.130:8181/1080p/cctv4.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: 8959 ms, 速度: 0.05 M/s, 分辨率: 1280x720
 下载测速失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: Cannot connect to host 61.157.139.15:9901 ssl:default [Connect call failed ('61.157.139.15', 9901)]
 获取结果失败 http://61.157.139.15:9901/tsfile/live/2375_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-5, URL: http://61.157.139.15:9901/tsfile/live/2375_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川-绵阳, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8: 
-获取响应头失败 http://10.10.10.5:1228/stv.php?id=cctv4: 
-获取结果失败 http://218.13.170.98:9901/tsfile/live/0002_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-2, URL: http://218.13.170.98:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-佛山, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8: Cannot connect to host 58.19.38.162:9901 ssl:default [Connect call failed ('58.19.38.162', 9901)]
 获取URL内容失败 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8: Cannot connect to host 58.19.38.162:9901 ssl:default [Connect call failed ('58.19.38.162', 9901)]
 下载测速失败 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8: Cannot connect to host 58.19.38.162:9901 ssl:default [Connect call failed ('58.19.38.162', 9901)]
 获取结果失败 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-6, URL: http://58.19.38.162:9901/tsfile/live/1006_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 
+获取响应头失败 http://10.10.10.5:1228/stv.php?id=cctv4: 
+获取URL内容失败 http://148.135.93.213/live.php?id=CCTV2: 
+获取结果失败 http://121.33.239.242:9901/tsfile/live/0002_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-2, URL: http://121.33.239.242:9901/tsfile/live/0002_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-广州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
 下载测速失败 http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8: 
 获取结果失败 http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-2, URL: http://39.134.61.218/PLTV/88888888/224/3221226417/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-辽宁-盘锦, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
-下载测速失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
+频道名: CCTV-8, URL: http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-科罗拉多州, 运营商: NTT(美国)通信公司, 日期: None, 延迟: 244 ms, 速度: 3.02 M/s, 分辨率: 1280x720
+获取URL内容失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
+下载测速失败 http://gmxw.7766.org:808/hls/93/14469370755596.ts: 
+下载测速失败 http://gmxw.7766.org:808/hls/93/14469360689927.ts: 
+下载测速失败 http://gmxw.7766.org:808/hls/93/14469365719283.ts: 
+下载测速失败 http://gmxw.7766.org:808/hls/93/14469355709724.ts: 
+下载测速失败 http://gmxw.7766.org:808/hls/93/14469350709937.ts: 
+频道名: CCTV-7, URL: https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-洛阳, 运营商: 电信, 日期: None, 延迟: 2113 ms, 速度: 0.52 M/s, 分辨率: 1280x720
 下载测速失败 http://148.135.93.213/live.php?id=CCTV2: 
-获取结果失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
-频道名: CCTV-3, URL: http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取URL内容失败 http://10.10.10.5:1228/stv.php?id=cctv4: 
 获取结果失败 http://148.135.93.213/live.php?id=CCTV2: 非M3U8格式，使用下载测速
 频道名: CCTV-2, URL: http://148.135.93.213/live.php?id=CCTV2, 来源: subscribe, IP类型: ipv4, 地区: 瑞典, 运营商: , 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://gmxw.7766.org:808/hls/93/14328397364081.ts: 
-下载测速失败 http://gmxw.7766.org:808/hls/93/14328392327613.ts: 
-下载测速失败 http://gmxw.7766.org:808/hls/93/14328382281818.ts: 
-下载测速失败 http://gmxw.7766.org:808/hls/93/14328387312641.ts: 
-下载测速失败 http://gmxw.7766.org:808/hls/93/14328377229131.ts: 
-下载测速失败 http://118.122.144.115:8888/newlive/live/hls/7/program-229213.ts: 
-下载测速失败 http://118.122.144.115:8888/newlive/live/hls/7/program-229214.ts: 
-下载测速失败 http://118.122.144.115:8888/newlive/live/hls/7/program-229212.ts: 
-频道名: CCTV-7, URL: https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-云南-昆明, 运营商: 电信, 日期: None, 延迟: 2016 ms, 速度: 0.58 M/s, 分辨率: 1280x720
+获取URL内容失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMzk0MjAwfQ&signature=5yxxWwXdy7lyWryUwGnFp6zNdHR9byVMnBWgKubWi5c: 
+获取URL内容失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
+下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21749260.ts?key=txiptv&key2=21749260: 
+下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21749263.ts?key=txiptv&key2=21749263: 
+下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21749261.ts?key=txiptv&key2=21749261: 
+获取响应头失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 
+下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21749259.ts?key=txiptv&key2=21749259: 
+下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21749262.ts?key=txiptv&key2=21749262: 
+下载测速失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取结果失败 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
+频道名: CCTV-3, URL: http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+分辨率检测失败 http://gmxw.7766.org:808/hls/93/index.m3u8: 
+频道名: CCTV-5, URL: http://gmxw.7766.org:808/hls/93/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-深圳, 运营商: 电信, 日期: None, 延迟: 8509 ms, 速度: 0.05 M/s, 分辨率: 未知
 获取响应头失败 http://183.3.134.56:9901/tsfile/live/0009_1.m3u8: Cannot connect to host 183.3.134.56:9901 ssl:default [Connect call failed ('183.3.134.56', 9901)]
 获取URL内容失败 http://183.3.134.56:9901/tsfile/live/0009_1.m3u8: Cannot connect to host 183.3.134.56:9901 ssl:default [Connect call failed ('183.3.134.56', 9901)]
 下载测速失败 http://183.3.134.56:9901/tsfile/live/0009_1.m3u8: Cannot connect to host 183.3.134.56:9901 ssl:default [Connect call failed ('183.3.134.56', 9901)]
@@ -289,106 +297,96 @@
 下载测速失败 http://p.ytelc.com/169l/0/cctv.php?id=cctv9: 无效响应码，跳过该接口
 获取结果失败 http://p.ytelc.com/169l/0/cctv.php?id=cctv9: 非M3U8格式，使用下载测速
 频道名: CCTV-9, URL: http://p.ytelc.com/169l/0/cctv.php?id=cctv9, 来源: subscribe, IP类型: ipv4, 地区: 中国-香港, 运营商: OWS, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://10.10.10.5:1228/stv.php?id=cctv4: 
-频道名: CCTV-6, URL: http://118.122.144.115:8888/newlive/live/hls/7/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-四川-绵阳, 运营商: 电信, 日期: None, 延迟: 8611 ms, 速度: 0.40 M/s, 分辨率: 1920x1080
 获取URL内容失败 http://69.30.246.194/live/cctv11.m3u8: 响应码异常: 404
 下载测速失败 http://69.30.246.194/live/cctv11.m3u8: 无效响应码，跳过该接口
 获取结果失败 http://69.30.246.194/live/cctv11.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-11, URL: http://69.30.246.194/live/cctv11.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-密苏里州-杰克逊县, 运营商: WholeSale互联网股份有限公司, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 
-获取URL内容失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
-获取URL内容失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMjUzODAwfQ&signature=qUV0g-vsNBdO7PznOsq7W2irXi3VmSI3ohpz8hKq1cc: 
-下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21721068.ts?key=txiptv&key2=21721068: 
-下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21721066.ts?key=txiptv&key2=21721066: 
-下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21721067.ts?key=txiptv&key2=21721067: 
-下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21721065.ts?key=txiptv&key2=21721065: 
-下载测速失败 http://124.165.251.82:85/tsfile/live/live_8_1_21721069.ts?key=txiptv&key2=21721069: 
-分辨率检测失败 http://gmxw.7766.org:808/hls/93/index.m3u8: 
-频道名: CCTV-5, URL: http://gmxw.7766.org:808/hls/93/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-深圳, 运营商: 电信, 日期: None, 延迟: 8180 ms, 速度: 0.04 M/s, 分辨率: 未知
-分辨率检测失败 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8: 'streams'
-频道名: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 蒙古, 运营商: , 日期: None, 延迟: 2453 ms, 速度: 0.65 M/s, 分辨率: 未知
-获取响应头失败 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=412b58fd4d539e0a1013cb2043823829&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261006094112&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.248.139.175&SecurityKey=20261006094112&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=994968671&jmhm=412b58fd4d539e0a1013cb2043823829&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=451085f1d6f035a1524e41eb64846f93&ddCalcu=34954f10603480854f61bde61f40e3452a51: 
+频道名: CCTV-9, URL: https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=49defb7e44f6b67e6de4c7322d9448d3, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西, 运营商: 电信, 日期: None, 延迟: 2007 ms, 速度: 0.12 M/s, 分辨率: 720x576
 下载测速失败 http://10.10.10.5:1228/stv.php?id=cctv4: 
 获取结果失败 http://10.10.10.5:1228/stv.php?id=cctv4: 非M3U8格式，使用下载测速
 频道名: CCTV-4, URL: http://10.10.10.5:1228/stv.php?id=cctv4, 来源: subscribe, IP类型: ipv4, 地区: IANA, 运营商: 局域网IP(Private-Use), 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 
-频道名: CCTV-13, URL: http://120.76.248.139/live/bfgd/4200000067.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-杭州, 运营商: 阿里云BGP数据中心, 日期: None, 延迟: 2842 ms, 速度: 2.25 M/s, 分辨率: 1920x1080
+下载测速失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMzk0MjAwfQ&signature=5yxxWwXdy7lyWryUwGnFp6zNdHR9byVMnBWgKubWi5c: 
+获取结果失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMzk0MjAwfQ&signature=5yxxWwXdy7lyWryUwGnFp6zNdHR9byVMnBWgKubWi5c: 非M3U8格式，使用下载测速
+下载测速失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
+获取结果失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 非M3U8格式，使用下载测速
+频道名: CCTV-6, URL: http://121.19.134.222:808/tsfile/live/0006_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-保定, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+分辨率检测失败 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8: 'streams'
+频道名: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 蒙古, 运营商: , 日期: None, 延迟: 2746 ms, 速度: 0.59 M/s, 分辨率: 未知
 获取响应头失败 http://www.lizhinas.top:1009/rtp/239.252.220.237:5140: Cannot connect to host www.lizhinas.top:1009 ssl:default [Name or service not known]
+分辨率检测失败 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0: 
+频道名: CCTV-8, URL: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-山西-吕梁, 运营商: 联通, 日期: None, 延迟: 8229 ms, 速度: 0.08 M/s, 分辨率: 未知
 获取URL内容失败 http://www.lizhinas.top:1009/rtp/239.252.220.237:5140: Cannot connect to host www.lizhinas.top:1009 ssl:default [Name or service not known]
 下载测速失败 http://www.lizhinas.top:1009/rtp/239.252.220.237:5140: Cannot connect to host www.lizhinas.top:1009 ssl:default [Name or service not known]
 获取结果失败 http://www.lizhinas.top:1009/rtp/239.252.220.237:5140: 非M3U8格式，使用下载测速
 频道名: CCTV-16, URL: http://www.lizhinas.top:1009/rtp/239.252.220.237:5140, 来源: subscribe, IP类型: ipv4, 地区: None, 运营商: None, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西, 运营商: 移动, 日期: None, 延迟: 1960 ms, 速度: 1.14 M/s, 分辨率: 1920x1080
-获取URL内容失败 https://static.tv.darwinchow.com/status/error_account_pirated.mp4: 'utf-8' codec can't decode byte 0xdc in position 568: invalid continuation byte
-获取结果失败 https://static.tv.darwinchow.com/status/error_account_pirated.mp4: 非M3U8格式，使用下载测速
 获取响应头失败 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc: Cannot connect to host tv.20191209.xyz:37377 ssl:default [Connect call failed ('114.105.98.95', 37377)]
-频道名: CCTV-17, URL: https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: CloudFlare节点, 日期: None, 延迟: 42 ms, 速度: 113.10 M/s, 分辨率: 1920x1080
 获取URL内容失败 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc: Cannot connect to host tv.20191209.xyz:37377 ssl:default [Connect call failed ('114.105.98.95', 37377)]
+获取URL内容失败 https://static.tv.darwinchow.com/status/error_account_pirated.mp4: 'utf-8' codec can't decode byte 0xdc in position 568: invalid continuation byte
 下载测速失败 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc: Cannot connect to host tv.20191209.xyz:37377 ssl:default [Connect call failed ('114.105.98.95', 37377)]
 获取结果失败 http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc: 非M3U8格式，使用下载测速
 频道名: CCTV-17, URL: http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽-合肥, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 
-下载测速失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMjUzODAwfQ&signature=qUV0g-vsNBdO7PznOsq7W2irXi3VmSI3ohpz8hKq1cc: 
-获取结果失败 http://121.19.134.222:808/tsfile/live/0006_1.m3u8: 非M3U8格式，使用下载测速
-频道名: CCTV-6, URL: http://121.19.134.222:808/tsfile/live/0006_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-保定, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取结果失败 https://raw.giteeusercontent.com/kdsb/sf/raw/master/aad.mp4?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhYWQubXA0IiwicGlkIjo0MTE5MzgyNiwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE4IiwicnAiOiJyZXBvcy9lNy8yMi9lNzIyOGY5YWMwODJhMDBlMWViMzFmMmUzYWEwOWQ1MDM0YzZkOTM4ZDUzMWM5MDE0YmRkNjliNGI4MzQ1Nzg1LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkxMjUzODAwfQ&signature=qUV0g-vsNBdO7PznOsq7W2irXi3VmSI3ohpz8hKq1cc: 非M3U8格式，使用下载测速
-分辨率检测失败 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0: 
-频道名: CCTV-8, URL: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-山西-吕梁, 运营商: 联通, 日期: None, 延迟: 8385 ms, 速度: 0.09 M/s, 分辨率: 未知
-获取响应头失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: Server disconnected
-频道名: 湖南卫视, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-加利福尼亚州-圣克拉拉, 运营商: 腾讯云, 日期: None, 延迟: 808 ms, 速度: 5.24 M/s, 分辨率: 1280x720
+获取结果失败 https://static.tv.darwinchow.com/status/error_account_pirated.mp4: 非M3U8格式，使用下载测速
+获取URL内容失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 
+频道名: CCTV-17, URL: https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: CloudFlare节点, 日期: None, 延迟: 57 ms, 速度: 87.08 M/s, 分辨率: 1920x1080
+频道名: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西, 运营商: 移动, 日期: None, 延迟: 1906 ms, 速度: 1.12 M/s, 分辨率: 1920x1080
+频道名: CCTV-12, URL: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-广州, 运营商: 腾讯云, 日期: None, 延迟: 2571 ms, 速度: 1.73 M/s, 分辨率: 1920x1080
+频道名: 湖南卫视, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 日本, 运营商: , 日期: None, 延迟: 447 ms, 速度: 5.38 M/s, 分辨率: 1280x720
 获取响应头失败 http://113.57.93.165:9900/tsfile/live/0128_1.m3u8: Cannot connect to host 113.57.93.165:9900 ssl:default [Connect call failed ('113.57.93.165', 9900)]
 获取URL内容失败 http://113.57.93.165:9900/tsfile/live/0128_1.m3u8: Cannot connect to host 113.57.93.165:9900 ssl:default [Connect call failed ('113.57.93.165', 9900)]
 下载测速失败 http://113.57.93.165:9900/tsfile/live/0128_1.m3u8: Cannot connect to host 113.57.93.165:9900 ssl:default [Connect call failed ('113.57.93.165', 9900)]
 获取结果失败 http://113.57.93.165:9900/tsfile/live/0128_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 湖南卫视, URL: http://113.57.93.165:9900/tsfile/live/0128_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: Server disconnected
 获取响应头失败 http://home.wwang.pw:35455/itv/1000000005000265024.m3u8?cdn=ystenlive: Cannot connect to host home.wwang.pw:35455 ssl:default [Connect call failed ('115.171.55.215', 35455)]
 获取URL内容失败 http://home.wwang.pw:35455/itv/1000000005000265024.m3u8?cdn=ystenlive: Cannot connect to host home.wwang.pw:35455 ssl:default [Connect call failed ('115.171.55.215', 35455)]
 下载测速失败 http://home.wwang.pw:35455/itv/1000000005000265024.m3u8?cdn=ystenlive: Cannot connect to host home.wwang.pw:35455 ssl:default [Connect call failed ('115.171.55.215', 35455)]
 获取结果失败 http://home.wwang.pw:35455/itv/1000000005000265024.m3u8?cdn=ystenlive: 非M3U8格式，使用下载测速
 频道名: 湖南卫视, URL: http://home.wwang.pw:35455/itv/1000000005000265024.m3u8?cdn=ystenlive, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://154.219.105.170:82/iptvYS5098.php?id=20031: Cannot connect to host 154.219.105.170:82 ssl:default [Connect call failed ('154.219.105.170', 82)]
+下载测速失败 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=hls&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067&redirect=1&hls_segment=4_0_1_2_3_4_15438.ts: 
+下载测速失败 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=hls&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067&redirect=1&hls_segment=4_0_1_2_3_4_15437.ts: 
+下载测速失败 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=hls&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067&redirect=1&hls_segment=4_0_1_2_3_4_15436.ts: 
 获取URL内容失败 http://154.219.105.170:82/iptvYS5098.php?id=20031: Cannot connect to host 154.219.105.170:82 ssl:default [Connect call failed ('154.219.105.170', 82)]
 下载测速失败 http://154.219.105.170:82/iptvYS5098.php?id=20031: Cannot connect to host 154.219.105.170:82 ssl:default [Connect call failed ('154.219.105.170', 82)]
 获取结果失败 http://154.219.105.170:82/iptvYS5098.php?id=20031: 非M3U8格式，使用下载测速
 频道名: 湖南卫视, URL: http://154.219.105.170:82/iptvYS5098.php?id=20031, 来源: subscribe, IP类型: ipv4, 地区: 中国-香港, 运营商: LARUS, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=412b58fd4d539e0a1013cb2043823829&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261006094112&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.248.139.175&SecurityKey=20261006094112&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=994968671&jmhm=412b58fd4d539e0a1013cb2043823829&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=451085f1d6f035a1524e41eb64846f93&ddCalcu=34954f10603480854f61bde61f40e3452a51: 
+频道名: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-加利福尼亚州-洛杉矶, 运营商: Level3, 日期: None, 延迟: 196 ms, 速度: 8.52 M/s, 分辨率: 3840x2160
+频道名: CCTV-6, URL: http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0, 来源: subscribe, IP类型: ipv4, 地区: 中国, 运营商: 阿里云, 日期: None, 延迟: 1332 ms, 速度: 0.17 M/s, 分辨率: 1920x1080
 获取响应头失败 http://74.48.192.96:82/live.php?id=CCTV17: 
-频道名: 湖南卫视, URL: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国, 运营商: , 日期: None, 延迟: 1871 ms, 速度: 1.15 M/s, 分辨率: 3840x2160
-频道名: CCTV-6, URL: http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0, 来源: subscribe, IP类型: ipv4, 地区: 中国, 运营商: 阿里云, 日期: None, 延迟: 1169 ms, 速度: 0.20 M/s, 分辨率: 1920x1080
-下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-2476.ts: 
-下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-2474.ts: 
-下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-2475.ts: 
-下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-2477.ts: 
+下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-20096.ts: 
+下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-20097.ts: 
+下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-20098.ts: 
+下载测速失败 http://221.226.51.220:50081/newlive/live/hls/1/program-20095.ts: 
 下载测速失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 
 获取结果失败 http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8: 非M3U8格式，使用下载测速
 频道名: CCTV-8, URL: http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: CCTV-16, URL: http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 电信, 日期: None, 延迟: 8417 ms, 速度: 0.12 M/s, 分辨率: 1920x1080
 获取响应头失败 http://123.118.63.55:8686/rtp/239.3.1.132:8012: 
-频道名: 浙江卫视, URL: http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-金华, 运营商: 移动, 日期: None, 延迟: 1914 ms, 速度: 0.36 M/s, 分辨率: 640x360
-频道名: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西, 运营商: 移动, 日期: None, 延迟: 2255 ms, 速度: 0.89 M/s, 分辨率: 1920x1080
-获取结果失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 非M3U8格式，使用下载测速
-下载测速失败 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=412b58fd4d539e0a1013cb2043823829&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261006094112&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.248.139.175&SecurityKey=20261006094112&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=994968671&jmhm=412b58fd4d539e0a1013cb2043823829&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=451085f1d6f035a1524e41eb64846f93&ddCalcu=34954f10603480854f61bde61f40e3452a51: 
-获取结果失败 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=412b58fd4d539e0a1013cb2043823829&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20261006094112&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.248.139.175&SecurityKey=20261006094112&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=994968671&jmhm=412b58fd4d539e0a1013cb2043823829&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=451085f1d6f035a1524e41eb64846f93&ddCalcu=34954f10603480854f61bde61f40e3452a51: 非M3U8格式，使用下载测速
-频道名: CCTV-12, URL: http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8a5d59f6aa673404ffa630e5132359, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-广州, 运营商: 腾讯云, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: CCTV-16, URL: http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 电信, 日期: None, 延迟: 8305 ms, 速度: 0.54 M/s, 分辨率: 1920x1080
+频道名: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西, 运营商: 移动, 日期: None, 延迟: 2144 ms, 速度: 0.91 M/s, 分辨率: 1920x1080
+获取URL内容失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 
+分辨率检测失败 http://120.76.248.139/live/bfgd/4200000067.m3u8: 
+频道名: CCTV-13, URL: http://120.76.248.139/live/bfgd/4200000067.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-杭州, 运营商: 阿里云BGP数据中心, 日期: None, 延迟: 8903 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: 湖南卫视, URL: http://222.223.41.27:8888/hls/27/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-沧州, 运营商: 电信, 日期: None, 延迟: 4695 ms, 速度: 1.39 M/s, 分辨率: 1920x1080
 获取URL内容失败 http://1.94.31.214/php/hntv.php?id=hnws: 响应码异常: 302
+频道名: 浙江卫视, URL: http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北, 运营商: 移动, 日期: None, 延迟: 1891 ms, 速度: 0.37 M/s, 分辨率: 640x360
 下载测速失败 http://1.94.31.214/php/hntv.php?id=hnws: 无效响应码，跳过该接口
 获取结果失败 http://1.94.31.214/php/hntv.php?id=hnws: 非M3U8格式，使用下载测速
 频道名: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, 来源: subscribe, IP类型: ipv4, 地区: 中国-上海-上海, 运营商: 华为云, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://222.223.41.27:8888/hls/27/chunk_327899.ts: 
-下载测速失败 http://222.223.41.27:8888/hls/27/chunk_327901.ts: 
-下载测速失败 http://222.223.41.27:8888/hls/27/chunk_327900.ts: 
 获取URL内容失败 http://74.48.192.96:82/live.php?id=CCTV17: 
-频道名: 湖南卫视, URL: http://222.223.41.27:8888/hls/27/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-沧州, 运营商: 电信, 日期: None, 延迟: 8306 ms, 速度: 0.70 M/s, 分辨率: 1920x1080
-频道名: 河南卫视, URL: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西, 运营商: 移动, 日期: None, 延迟: 2347 ms, 速度: 0.69 M/s, 分辨率: 720x576
-下载测速失败 http://119.62.24.75:50085/tsfile/live/live_107_1_4138310.ts?key=txiptv&key2=115915&cl=4737788&wl=4737788&ltl=545576&srcurl=/00000003/2/H_ZJWS/1/1000/202610/060200/media-u979q3f3f_115915.ts?zduration=10&ts_min=1&prog_time=20261006021018&IASHttpSessionId=SLB136249920261004224550623618&stbid=hotel&userid=hotel,,127.0.0.1,8554,0,16,0,0,,false,false,true&ispcode=41&ztecid=H_ZJWS: 
+频道名: 河南卫视, URL: http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西, 运营商: 移动, 日期: None, 延迟: 2629 ms, 速度: 0.61 M/s, 分辨率: 720x576
 获取URL内容失败 http://123.118.63.55:8686/rtp/239.3.1.132:8012: 
-分辨率检测失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 'streams'
-频道名: 湖南卫视, URL: http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 联通, 日期: None, 延迟: 404 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: 浙江卫视, URL: http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-云南-昆明, 运营商: 联通, 日期: None, 延迟: 8073 ms, 速度: 0.71 M/s, 分辨率: 1920x1080
-获取响应头失败 http://106.53.99.30/tv/api.php?id=bjws4k: Cannot connect to host 106.53.99.30:80 ssl:default [Connect call failed ('106.53.99.30', 80)]
 获取响应头失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 
-获取响应头失败 http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0: 
+获取响应头失败 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8: 
+频道名: 浙江卫视, URL: http://119.62.24.75:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-云南-昆明, 运营商: 联通, 日期: None, 延迟: 6293 ms, 速度: 0.85 M/s, 分辨率: 1920x1080
+下载测速失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 
+获取结果失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 非M3U8格式，使用下载测速
+下载测速失败 http://112.123.243.37:50085/tsfile/live/live_130_1_8956208.ts?key=txiptv&key2=11889042&cl=11270224&wl=11270224&ltl=793172&srcurl=/AHBKLIVE__00000001000000050000000000000039/11889042.ts?FvTraceId=d709b04bdd714eff&FvSeid=ce2d110a04bdd617&FvCheckid=1807d9f5e7c28f6103cb704fa0728bb8&Fsv_Segid=2137700&Fsv_Time=1791393610&Fsv_Idx=22&Fsv_ctype=LIVES&Fsv_filetype=2&Provider_id=AHBKLIVE&Pcontent_id=00000001000000050000000000000039&Fsv_CMSID=AHBK&Fsv_Sd=10&Fsv_Seq=11889042&UserID=&stbid=&Fsv_md5=: 
+下载测速失败 http://74.48.192.96:82/live.php?id=CCTV17: 
+获取结果失败 http://74.48.192.96:82/live.php?id=CCTV17: 非M3U8格式，使用下载测速
+频道名: CCTV-17, URL: http://74.48.192.96:82/live.php?id=CCTV17, 来源: subscribe, IP类型: ipv4, 地区: 加拿大, 运营商: TELUS, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://106.53.99.30/tv/api.php?id=bjws4k: Cannot connect to host 106.53.99.30:80 ssl:default [Connect call failed ('106.53.99.30', 80)]
 获取URL内容失败 http://106.53.99.30/tv/api.php?id=bjws4k: Cannot connect to host 106.53.99.30:80 ssl:default [Connect call failed ('106.53.99.30', 80)]
+频道名: 北京卫视, URL: http://218.206.193.218:8888/hls/48/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-郑州, 运营商: 移动, 日期: None, 延迟: 3684 ms, 速度: 1.11 M/s, 分辨率: 720x576
 下载测速失败 http://106.53.99.30/tv/api.php?id=bjws4k: Cannot connect to host 106.53.99.30:80 ssl:default [Connect call failed ('106.53.99.30', 80)]
 获取结果失败 http://106.53.99.30/tv/api.php?id=bjws4k: 非M3U8格式，使用下载测速
 频道名: 北京卫视, URL: http://106.53.99.30/tv/api.php?id=bjws4k, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-广州, 运营商: 腾讯云, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
@@ -397,112 +395,82 @@
 下载测速失败 http://60.189.43.82:9999/rtp/233.50.201.115:5140: Cannot connect to host 60.189.43.82:9999 ssl:default [Connect call failed ('60.189.43.82', 9999)]
 获取结果失败 http://60.189.43.82:9999/rtp/233.50.201.115:5140: 非M3U8格式，使用下载测速
 频道名: 黑龙江卫, URL: http://60.189.43.82:9999/rtp/233.50.201.115:5140, 来源: subscribe, IP类型: ipv4, 地区: 中国-浙江-台州, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0: 响应码异常: 404
-下载测速失败 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0: 无效响应码，跳过该接口
-获取结果失败 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
-频道名: 江西卫视, URL: http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-频道名: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 亚太地区, 运营商: , 日期: None, 延迟: 2181 ms, 速度: 0.71 M/s, 分辨率: 1920x1080
-下载测速失败 http://74.48.192.96:82/live.php?id=CCTV17: 
-获取结果失败 http://74.48.192.96:82/live.php?id=CCTV17: 非M3U8格式，使用下载测速
-频道名: CCTV-17, URL: http://74.48.192.96:82/live.php?id=CCTV17, 来源: subscribe, IP类型: ipv4, 地区: 加拿大, 运营商: TELUS, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: 安徽卫视, URL: http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽-黄山, 运营商: 联通, 日期: None, 延迟: 8679 ms, 速度: 1.48 M/s, 分辨率: 1920x1080
 获取响应头失败 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: 
-下载测速失败 http://218.206.193.218:8888/hls/48/chunk_207748.ts: 
-下载测速失败 http://218.206.193.218:8888/hls/48/chunk_207751.ts: 
-下载测速失败 http://218.206.193.218:8888/hls/48/chunk_207750.ts: 
-下载测速失败 http://218.206.193.218:8888/hls/48/chunk_207749.ts: 
-下载测速失败 http://218.206.193.218:8888/hls/48/chunk_207747.ts: 
 下载测速失败 http://123.118.63.55:8686/rtp/239.3.1.132:8012: 
+获取URL内容失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 
 获取结果失败 http://123.118.63.55:8686/rtp/239.3.1.132:8012: 非M3U8格式，使用下载测速
 频道名: 湖南卫视, URL: http://123.118.63.55:8686/rtp/239.3.1.132:8012, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 
-获取URL内容失败 http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0: 
-获取响应头失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 
-频道名: 山西卫视, URL: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 联通, 日期: None, 延迟: 5922 ms, 速度: 1.25 M/s, 分辨率: 1920x1080
-下载测速失败 http://153.0.171.163:9901/tsfile/live/live_118_1_2392383.ts?key=txiptv&key2=2392383: 
-频道名: 北京卫视, URL: http://218.206.193.218:8888/hls/48/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河南-郑州, 运营商: 移动, 日期: None, 延迟: 8712 ms, 速度: 0.21 M/s, 分辨率: 720x576
-频道名: 山西卫视, URL: http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-海南-海口, 运营商: 联通, 日期: None, 延迟: 8342 ms, 速度: 0.32 M/s, 分辨率: 720x576
+获取URL内容失败 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8: 
+分辨率检测失败 http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012: 
+频道名: 湖南卫视, URL: http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 联通, 日期: None, 延迟: 451 ms, 速度: 0.78 M/s, 分辨率: 未知
+频道名: 江西卫视, URL: http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽, 运营商: 移动, 日期: None, 延迟: 3839 ms, 速度: 1.22 M/s, 分辨率: 1920x1080
 获取响应头失败 http://60.209.125.254:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 60.209.125.254:352 ssl:default [Connect call failed ('60.209.125.254', 352)]
 获取URL内容失败 http://60.209.125.254:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 60.209.125.254:352 ssl:default [Connect call failed ('60.209.125.254', 352)]
-获取URL内容失败 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: 
-获取响应头失败 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8: 
 下载测速失败 http://60.209.125.254:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 60.209.125.254:352 ssl:default [Connect call failed ('60.209.125.254', 352)]
 获取结果失败 http://60.209.125.254:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
 频道名: 广东卫视, URL: http://60.209.125.254:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-青岛, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 
-下载测速失败 http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0: 
-获取结果失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 非M3U8格式，使用下载测速
-频道名: 江苏卫视, URL: http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-襄阳, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取结果失败 http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0: 非M3U8格式，使用下载测速
-频道名: 安徽卫视, URL: http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽-黄山, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+频道名: 山西卫视, URL: http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-海南-海口, 运营商: 联通, 日期: None, 延迟: 4209 ms, 速度: 0.48 M/s, 分辨率: 720x576
+频道名: 山西卫视, URL: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-长沙, 运营商: 联通, 日期: None, 延迟: 5487 ms, 速度: 1.21 M/s, 分辨率: 1920x1080
 获取响应头失败 http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 218.13.14.6:60050 ssl:default [Connect call failed ('218.13.14.6', 60050)]
 获取URL内容失败 http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 218.13.14.6:60050 ssl:default [Connect call failed ('218.13.14.6', 60050)]
 下载测速失败 http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0: Cannot connect to host 218.13.14.6:60050 ssl:default [Connect call failed ('218.13.14.6', 60050)]
 获取结果失败 http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
 频道名: 广东卫视, URL: http://218.13.14.6:60050/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-佛山, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 
-下载测速失败 http://120.238.94.82:9901/tsfile/live/live_1009_1_34201964.ts?key=txiptv&key2=34201964: 
-下载测速失败 http://120.238.94.82:9901/tsfile/live/live_1009_1_34201963.ts?key=txiptv&key2=34201963: 
-下载测速失败 http://120.238.94.82:9901/tsfile/live/live_1009_1_34201961.ts?key=txiptv&key2=34201961: 
-下载测速失败 http://120.238.94.82:9901/tsfile/live/live_1009_1_34201962.ts?key=txiptv&key2=34201962: 
+获取响应头失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 
+获取URL内容失败 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: 
+获取响应头失败 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8: 
 获取响应头失败 http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 
-下载测速失败 http://120.238.94.82:9901/tsfile/live/live_1009_1_34201960.ts?key=txiptv&key2=34201960: 
-下载测速失败 http://113.57.140.161:10081/newlive/live/hls/34/program-1931.ts: 
-下载测速失败 http://113.57.140.161:10081/newlive/live/hls/34/program-1928.ts: 
+获取响应头失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 
+下载测速失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 
+获取结果失败 http://111.170.156.74:3344/%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93/js.php?id=jsws4kpro: 非M3U8格式，使用下载测速
+频道名: 江苏卫视, URL: http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-襄阳, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8: 
+获取结果失败 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8: 非M3U8格式，使用下载测速
+频道名: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-陕西-咸阳, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取URL内容失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 
 获取URL内容失败 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8: 
 下载测速失败 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: 
-下载测速失败 http://113.57.140.161:10081/newlive/live/hls/34/program-1929.ts: 
-下载测速失败 http://113.57.140.161:10081/newlive/live/hls/34/program-1930.ts: 
-下载测速失败 http://113.57.140.161:10081/newlive/live/hls/34/program-1927.ts: 
 获取结果失败 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: 非M3U8格式，使用下载测速
 频道名: 北京卫视, URL: http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-东莞, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 
-获取响应头失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取URL内容失败 http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取URL内容失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 
+下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17527459.ts?key=txiptv&key2=17527459: 
+下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17527461.ts?key=txiptv&key2=17527461: 
+下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17527462.ts?key=txiptv&key2=17527462: 
+下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17527460.ts?key=txiptv&key2=17527460: 
+下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17527458.ts?key=txiptv&key2=17527458: 
+获取URL内容失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
+分辨率检测失败 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8: 
+频道名: 深圳卫视, URL: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-加利福尼亚州-洛杉矶, 运营商: Cogent, 日期: None, 延迟: 3386 ms, 速度: 0.84 M/s, 分辨率: 未知
+频道名: 广东卫视, URL: http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-阳江, 运营商: 电信, 日期: None, 延迟: 8996 ms, 速度: 0.07 M/s, 分辨率: 1920x1080
 下载测速失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 
 获取结果失败 http://124.128.73.58:9901/tsfile/live/0118_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 山西卫视, URL: http://124.128.73.58:9901/tsfile/live/0118_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-济南, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-分辨率检测失败 http://120.238.94.82:9901/tsfile/live/1009_1.m3u8: 
-频道名: 广东卫视, URL: http://120.238.94.82:9901/tsfile/live/1009_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-江门, 运营商: 移动, 日期: None, 延迟: 8526 ms, 速度: 0.06 M/s, 分辨率: 未知
-获取URL内容失败 http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 
-分辨率检测失败 http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8: 
-频道名: 广东卫视, URL: http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: 8353 ms, 速度: 0.05 M/s, 分辨率: 未知
-下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17499438.ts?key=txiptv&key2=17499438: 
+获取响应头失败 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030: Cannot connect to host stream.qhbtv.com:80 ssl:default [Name or service not known]
 下载测速失败 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8: 
-下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17499437.ts?key=txiptv&key2=17499437: 
-下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17499439.ts?key=txiptv&key2=17499439: 
-下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17499436.ts?key=txiptv&key2=17499436: 
-下载测速失败 http://59.39.89.130:60901/tsfile/live/live_125_1_17499435.ts?key=txiptv&key2=17499435: 
+下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2544843.ts?key=txiptv&key2=1791165768&cl=3024920&wl=3024920&ltl=935112&srcurl=/streams/d/szws/012103_1791165768.ts: 
+下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2544841.ts?key=txiptv&key2=1791165766&cl=3002924&wl=3002924&ltl=920260&srcurl=/streams/d/szws/012044_1791165766.ts: 
+下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2544844.ts?key=txiptv&key2=1791165769&cl=3065340&wl=3065340&ltl=971584&srcurl=/streams/d/szws/012114_1791165769.ts: 
+下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2544842.ts?key=txiptv&key2=1791165767&cl=2996908&wl=2996908&ltl=901836&srcurl=/streams/d/szws/012054_1791165767.ts: 
+下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2544845.ts?key=txiptv&key2=1791165770&cl=2958932&wl=2958932&ltl=869500&srcurl=/streams/d/szws/012123_1791165770.ts: 
 获取结果失败 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8: 非M3U8格式，使用下载测速
 频道名: 陕西卫视, URL: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-安徽, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
-获取URL内容失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 
-频道名: 广东卫视, URL: http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-阳江, 运营商: 电信, 日期: None, 延迟: 8126 ms, 速度: 0.26 M/s, 分辨率: 1920x1080
-获取响应头失败 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030: Cannot connect to host stream.qhbtv.com:80 ssl:default [Name or service not known]
 获取URL内容失败 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030: Cannot connect to host stream.qhbtv.com:80 ssl:default [Name or service not known]
 下载测速失败 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030: Cannot connect to host stream.qhbtv.com:80 ssl:default [Name or service not known]
 获取结果失败 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030: 非M3U8格式，使用下载测速
 频道名: 青海卫视, URL: http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030, 来源: subscribe, IP类型: ipv4, 地区: None, 运营商: None, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-分辨率检测失败 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8: 
-频道名: 深圳卫视, URL: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 美国-加利福尼亚州-洛杉矶, 运营商: Cogent, 日期: None, 延迟: 1574 ms, 速度: 2.07 M/s, 分辨率: 未知
 下载测速失败 http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 
 获取结果失败 http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
 频道名: 广东卫视, URL: http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-山东-青岛, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2530756.ts?key=txiptv&key2=1791151672&cl=2994276&wl=2994276&ltl=902024&srcurl=/streams/d/szws/101143_1791151672.ts: 
-下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5607512.ts?key=txiptv&key2=5607512: 
-下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2530753.ts?key=txiptv&key2=1791151669&cl=3006308&wl=3006308&ltl=912552&srcurl=/streams/d/szws/101114_1791151669.ts: 
-下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5607511.ts?key=txiptv&key2=5607511: 
-下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5607509.ts?key=txiptv&key2=5607509: 
-下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5607508.ts?key=txiptv&key2=5607508: 
-下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5607510.ts?key=txiptv&key2=5607510: 
-下载测速失败 http://116.77.33.98:44330/tsfile/live/live_18_1_2530754.ts?key=txiptv&key2=1791151670&cl=3000668&wl=3000668&ltl=905596&srcurl=/streams/d/szws/101124_1791151670.ts: 
-频道名: 海南卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=hnws, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-宿迁, 运营商: 七星云BGP数据中心, 日期: None, 延迟: 2569 ms, 速度: 1.04 M/s, 分辨率: 1920x1080
-获取响应头失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.15.146:60901 ssl:default [Connect call failed ('183.66.15.146', 60901)]
-获取URL内容失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.15.146:60901 ssl:default [Connect call failed ('183.66.15.146', 60901)]
-下载测速失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
+下载测速失败 http://218.84.12.186:8001/hls/main/SEG-20261008011800.ts: 无效响应码，跳过该接口
 下载测速失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 
-获取结果失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
-频道名: 广东卫视, URL: http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取结果失败 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8: 非M3U8格式，使用下载测速
 频道名: 广东卫视, URL: http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南-娄底, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.15.146:60901 ssl:default [Connect call failed ('183.66.15.146', 60901)]
+获取URL内容失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.15.146:60901 ssl:default [Connect call failed ('183.66.15.146', 60901)]
+频道名: 深圳卫视, URL: http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-深圳, 运营商: 天威视讯, 日期: None, 延迟: 8187 ms, 速度: 0.23 M/s, 分辨率: 1280x720
 下载测速失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.15.146:60901 ssl:default [Connect call failed ('183.66.15.146', 60901)]
 获取结果失败 http://183.66.15.146:60901/tsfile/live/0140_2.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://183.66.15.146:60901/tsfile/live/0140_2.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-重庆-重庆, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
@@ -511,98 +479,104 @@
 下载测速失败 http://183.66.13.82:60033/tsfile/live/0140_2.m3u8: Cannot connect to host 183.66.13.82:60033 ssl:default [Connect call failed ('183.66.13.82', 60033)]
 获取结果失败 http://183.66.13.82:60033/tsfile/live/0140_2.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://183.66.13.82:60033/tsfile/live/0140_2.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-重庆-重庆, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 
+获取结果失败 http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0: 非M3U8格式，使用下载测速
+频道名: 广东卫视, URL: http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖北-武汉, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5635701.ts?key=txiptv&key2=5635701: 
+下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5635704.ts?key=txiptv&key2=5635704: 
+下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5635703.ts?key=txiptv&key2=5635703: 
+下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5635702.ts?key=txiptv&key2=5635702: 
+下载测速失败 http://118.193.115.2:9901/tsfile/live/live_139_2_5635705.ts?key=txiptv&key2=5635705: 
+频道名: 新疆卫视, URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd, 来源: subscribe, IP类型: ipv4, 地区: 中国-新疆-伊犁哈萨克自治州, 运营商: 电信, 日期: None, 延迟: 2655 ms, 速度: 0.07 M/s, 分辨率: 0x0
 获取响应头失败 http://221.221.153.193:8888/rtp/239.3.1.199:9000: 
-频道名: 新疆卫视, URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd, 来源: subscribe, IP类型: ipv4, 地区: 中国-新疆-伊犁哈萨克自治州, 运营商: 电信, 日期: None, 延迟: 4091 ms, 速度: 0.34 M/s, 分辨率: 0x0
 获取响应头失败 http://121.24.98.127:8090/hls/105/index.m3u8: 
-获取响应头失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 
-获取响应头失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 
+频道名: 海南卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=hnws, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-宿迁, 运营商: 七星云BGP数据中心, 日期: None, 延迟: 2475 ms, 速度: 0.97 M/s, 分辨率: 1920x1080
 获取响应头失败 http://171.110.42.239:8181/tsfile/live/1072_1.m3u8: 
-分辨率检测失败 http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv: 
-分辨率检测失败 http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0: 
-频道名: 深圳卫视, URL: http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-深圳, 运营商: 天威视讯, 日期: None, 延迟: 8181 ms, 速度: 0.28 M/s, 分辨率: 未知
-频道名: 甘肃卫视, URL: http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 电信, 日期: None, 延迟: 8323 ms, 速度: 0.09 M/s, 分辨率: 未知
+获取响应头失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 
+频道名: 甘肃卫视, URL: http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 电信, 日期: None, 延迟: 8633 ms, 速度: 0.29 M/s, 分辨率: 1920x1080
+获取响应头失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 
 获取响应头失败 http://163.177.122.71:9901/tsfile/live/1042_1.m3u8: 
-获取URL内容失败 http://221.221.153.193:8888/rtp/239.3.1.199:9000: 
-获取URL内容失败 http://121.24.98.127:8090/hls/105/index.m3u8: 
-获取响应头失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
 获取响应头失败 http://222.217.230.193:8181/tsfile/live/1072_1.m3u8: 
+获取URL内容失败 http://221.221.153.193:8888/rtp/239.3.1.199:9000: 
+获取响应头失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
+获取URL内容失败 http://121.24.98.127:8090/hls/105/index.m3u8: 
 获取URL内容失败 http://171.110.42.239:8181/tsfile/live/1072_1.m3u8: 
 获取URL内容失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 
 获取URL内容失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 
 获取URL内容失败 http://163.177.122.71:9901/tsfile/live/1042_1.m3u8: 
+获取URL内容失败 http://222.217.230.193:8181/tsfile/live/1072_1.m3u8: 
 下载测速失败 http://221.221.153.193:8888/rtp/239.3.1.199:9000: 
+获取URL内容失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
 获取结果失败 http://221.221.153.193:8888/rtp/239.3.1.199:9000: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://221.221.153.193:8888/rtp/239.3.1.199:9000, 来源: subscribe, IP类型: ipv4, 地区: 中国-北京-北京, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://121.24.98.127:8090/hls/105/index.m3u8: 
 获取结果失败 http://121.24.98.127:8090/hls/105/index.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://121.24.98.127:8090/hls/105/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-河北-邯郸, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://222.217.230.193:8181/tsfile/live/1072_1.m3u8: 
-获取URL内容失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
-下载测速失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 
 下载测速失败 http://171.110.42.239:8181/tsfile/live/1072_1.m3u8: 
-下载测速失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 
-获取结果失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 非M3U8格式，使用下载测速
-频道名: 少儿动画, URL: http://163.177.122.122:9901/tsfile/live/1042_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-梅州, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取结果失败 http://171.110.42.239:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://171.110.42.239:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取结果失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
-频道名: 少儿动画, URL: http://222.217.230.192:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-玉林, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb: Cannot connect to host 111.22.153.159:35455 ssl:default [Connect call failed ('111.22.153.159', 35455)]
 获取URL内容失败 http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb: Cannot connect to host 111.22.153.159:35455 ssl:default [Connect call failed ('111.22.153.159', 35455)]
 下载测速失败 http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb: Cannot connect to host 111.22.153.159:35455 ssl:default [Connect call failed ('111.22.153.159', 35455)]
 获取结果失败 http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb: 非M3U8格式，使用下载测速
 频道名: 动漫秀场, URL: http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb, 来源: subscribe, IP类型: ipv4, 地区: 中国-湖南, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 
+下载测速失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 
+获取结果失败 http://222.217.230.192:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
+频道名: 少儿动画, URL: http://222.217.230.192:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-玉林, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 
+获取结果失败 http://163.177.122.122:9901/tsfile/live/1042_1.m3u8: 非M3U8格式，使用下载测速
+频道名: 少儿动画, URL: http://163.177.122.122:9901/tsfile/live/1042_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-梅州, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://163.177.122.71:9901/tsfile/live/1042_1.m3u8: 
 获取结果失败 http://163.177.122.71:9901/tsfile/live/1042_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://163.177.122.71:9901/tsfile/live/1042_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广东-梅州, 运营商: 联通, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取响应头失败 http://36.129.204.117:9003//hls/67/index.m3u8: 
-获取响应头失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 
-获取响应头失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
-下载测速失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
-获取响应头失败 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8: 
+获取响应头失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 
 下载测速失败 http://222.217.230.193:8181/tsfile/live/1072_1.m3u8: 
-获取结果失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
-频道名: 少儿动画, URL: http://222.217.230.195:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-玉林, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://36.129.204.117:9003//hls/67/index.m3u8: 
 获取结果失败 http://222.217.230.193:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://222.217.230.193:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-玉林, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8: 
+获取响应头失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 
+下载测速失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 
+获取结果失败 http://222.217.230.195:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
+频道名: 少儿动画, URL: http://222.217.230.195:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西-玉林, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取响应头失败 http://itv.iptv1688.top:2016/itv.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A: Cannot connect to host itv.iptv1688.top:2016 ssl:default [Name or service not known]
 获取URL内容失败 http://itv.iptv1688.top:2016/itv.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A: Cannot connect to host itv.iptv1688.top:2016 ssl:default [Name or service not known]
 下载测速失败 http://itv.iptv1688.top:2016/itv.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A: Cannot connect to host itv.iptv1688.top:2016 ssl:default [Name or service not known]
 获取结果失败 http://itv.iptv1688.top:2016/itv.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A: 非M3U8格式，使用下载测速
 频道名: 金鹰卡通, URL: http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通, 来源: subscribe, IP类型: ipv4, 地区: None, 运营商: None, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+获取响应头失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
 获取响应头失败 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8: 
-获取URL内容失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 
-获取URL内容失败 http://36.129.204.117:9003//hls/67/index.m3u8: 
 获取响应头失败 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8: 
 获取响应头失败 http://tvbox6.icu/tv/mgtv.php?id=287: 
+获取URL内容失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 
+获取URL内容失败 http://36.129.204.117:9003//hls/67/index.m3u8: 
 获取URL内容失败 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8: 
-获取URL内容失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
 获取URL内容失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 
+获取URL内容失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
 获取URL内容失败 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8: 
+获取URL内容失败 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8: 
+获取URL内容失败 http://tvbox6.icu/tv/mgtv.php?id=287: 
 下载测速失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 
 获取结果失败 http://171.110.42.238:8181/tsfile/live/1072_1.m3u8: 非M3U8格式，使用下载测速
 频道名: 少儿动画, URL: http://171.110.42.238:8181/tsfile/live/1072_1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-广西, 运营商: 电信, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://36.129.204.117:9003//hls/67/index.m3u8: 
 获取结果失败 http://36.129.204.117:9003//hls/67/index.m3u8: 非M3U8格式，使用下载测速
 频道名: 动漫秀场, URL: http://36.129.204.117:9003//hls/67/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-辽宁, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
-获取URL内容失败 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8: 
-获取URL内容失败 http://tvbox6.icu/tv/mgtv.php?id=287: 
-下载测速失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
 下载测速失败 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8: 
-下载测速失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 
-获取结果失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 非M3U8格式，使用下载测速
-频道名: 金鹰卡通, URL: http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 获取结果失败 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8: 非M3U8格式，使用下载测速
 频道名: 优漫卡通, URL: http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 
 获取结果失败 http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8: 非M3U8格式，使用下载测速
 频道名: 优漫卡通, URL: http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 
+获取结果失败 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8: 非M3U8格式，使用下载测速
+频道名: 金鹰卡通, URL: http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8: 
 获取结果失败 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8: 非M3U8格式，使用下载测速
 频道名: 金鹰卡通, URL: http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏-南京, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
 下载测速失败 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8: 
-下载测速失败 http://tvbox6.icu/tv/mgtv.php?id=287: 
 获取结果失败 http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8: 非M3U8格式，使用下载测速
 频道名: 金鹰卡通, URL: http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8, 来源: subscribe, IP类型: ipv4, 地区: 中国-江苏, 运营商: 移动, 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
+下载测速失败 http://tvbox6.icu/tv/mgtv.php?id=287: 
 获取结果失败 http://tvbox6.icu/tv/mgtv.php?id=287: 非M3U8格式，使用下载测速
 频道名: 金鹰卡通, URL: http://tvbox6.icu/tv/mgtv.php?id=287, 来源: subscribe, IP类型: ipv4, 地区: 欧洲, 运营商: , 日期: None, 延迟: -1 ms, 速度: 0.00 M/s, 分辨率: 未知
